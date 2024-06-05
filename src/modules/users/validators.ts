@@ -13,5 +13,4 @@ export const validateUpdateUsersRequest = () => {
 export const validateDeleteUsersRequest = () => {
   return [body('firstName', 'FirstName is required').isString()];
 };
-let d =5;
-
+//second
