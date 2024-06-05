@@ -18,11 +18,9 @@ export const get = async ({ id }) => {
 export const search = async () => {};
 export const update = async () => {};
 export const remove = async () => {};
-<<<<<<< Updated upstream
 // Edit by harsh .
-=======
 
 //services.ts edited by chirag
 //edit by akshar
 //Edit by harsh
->>>>>>> Stashed changes
+
