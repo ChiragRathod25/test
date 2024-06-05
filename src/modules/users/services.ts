@@ -19,5 +19,9 @@ export const search = async () => {};
 export const update = async () => {};
 export const remove = async () => {};
 // Edit by harsh .
+<<<<<<< HEAD
 
 //services.ts edited by chirag
+=======
+//edit by akshar
+>>>>>>> 44fc049 (rsv commited)
