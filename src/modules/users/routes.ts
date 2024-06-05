@@ -13,12 +13,7 @@ import {
   validateDeleteUsersRequest,
   validateUpdateUsersRequest,
 } from './validators';
-<<<<<<< HEAD
-//my name is mann bhalodiya
-//i am changing this file 
-=======
 //easy
->>>>>>> 44fc049 (rsv commited)
 const router = express.Router();
 
 router.get('/users/search', searchUsers);
