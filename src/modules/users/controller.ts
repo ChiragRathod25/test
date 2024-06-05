@@ -98,3 +98,5 @@ export const deleteUsers = async (req: Request, res: Response) => {
   }
 };
 //edited by mann bhalodiya
+
+//controller.ts edited by chirag
